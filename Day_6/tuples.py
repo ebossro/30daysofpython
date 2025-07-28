@@ -1,4 +1,4 @@
-# --- Niveau 1 ---
+# Exercice 1
 
 # 1. Créez un tuple vide
 empty_tuple = ()
@@ -18,7 +18,7 @@ print(len(siblings))
 family_members = siblings + ('Jean', 'Marie')
 print(family_members)
 
-# --- Niveau 2 ---
+# Exercice 2
 
 # 1. Déballer frères et sœurs + parents
 sister1, sister2, brother1, brother2, father, mother = family_members
